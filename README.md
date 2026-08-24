@@ -23,13 +23,6 @@ Sou analista de dados apaixonada por transformar informação em decisão. Atuo 
   <img src="https://skillicons.dev/icons?i=py,sql,git,github,vscode,html,css,js" alt="Skills"/>
 </p>
 
-## Estatísticas
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gimalvaso&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Giovanna Malvaso"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimalvaso&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
 ## Contato
 
 📫 giovanna.malvaso@v4company.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/giovanna-malvaso/)
