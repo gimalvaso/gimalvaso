@@ -38,4 +38,4 @@ Sou analista de dados apaixonada por transformar informação em decisão. Atuo 
 
 ## Contato
 
-📫 giovanna.malvaso@v4company.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/giovanna-malvaso/)
+📫 giovanna.malvaso07@hotmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/giovanna-malvaso/)
