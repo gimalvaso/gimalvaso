@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou a Giovanna Malvaso 👋</h1>
+<h1 align="left">Olá, eu sou a Giovanna 👋</h1>
 <p align="left">
   <b>Analista de Dados</b> na V4 Company
 </p>
